@@ -1,0 +1,9 @@
+{
+  "name": "little-react-app",
+  "version": "0.0.1",
+  "description": "Reacting from scratch",
+  "main": "index.js",
+  "repository": "https://github.com/wlharvey4/little-react-app.git",
+  "author": "Wesley Harvey <pinecone062@gmail.com>",
+  "license": "The Unlicense"
+}

@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "https://github.com/wlharvey4/little-react-app.git",
   "author": "Wesley Harvey <pinecone062@gmail.com>",
-  "license": "The Unlicense"
+  "license": "Unlicense",
+  "scripts": {
+    "l-server": "yarn live-server ./public"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
 }
